@@ -9,7 +9,7 @@ description: "Information related to research for Marco LiCalzi."
 
 + (with Niccolò Urbinati), [*Market allocations under conflation of goods*](https://www.unive.it/pag/fileadmin/user_upload/dipartimenti/economia/doc/Pubblicazioni_scientifiche/working_papers/2022/WP_DSE_urbinati_licalzi_05_22.pdf), December 2024; including an [*Online Appendix*](MACG-Online-Appendix.pdf)
 
-+ (with Alperen Yasar), [*Vocabulary aggregation*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902792f), July 2024
++ (with Alperen Yasar), [*Vocabulary aggregation*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902792), July 2024
 
 ### Current grants
 
