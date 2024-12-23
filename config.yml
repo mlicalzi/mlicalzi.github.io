@@ -1,0 +1,108 @@
+baseURL: "https://mlicalzi.github.io/" 
+title: Marco LiCalzi
+pagination:
+    pagerSize: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
+
+menu:
+    main:
+        - name: Research
+          url: research
+          weight: 1
+        - name: Teaching
+          url: teaching
+          weight: 2
+        - name: Service
+          url: service
+          weight: 3
+        - name: Repository
+          url: repository
+          weight: 4
+
+params:
+    description: "This website hosts information about Marco LiCalzi's research, teaching, publications, curriculum vitae, and contact information."
+    author: Marco LiCalzi
+    # googleAnalyticsID: "G-XXXXX1"
+   # images: ["cover.png"]
+    DateFormat: "January 2025"
+    defaultTheme: light
+    hideFooter: true
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["Research","Teaching","Service","Repository"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Marco LiCalzi
+          subtitle: "Professor of Decision Sciences at the Venice School of Management, Università Ca' Foscari Venezia"
+          imageUrl: "/hobbes.gif"
+          imageWidth: 200
+          imageHeight: 150
+          buttons:
+            - name: Research
+              url: research
+            - name: Teaching
+              url: teaching
+            - name: Service
+              url: service
+            - name: Repository
+              url: repository
+
+    socialIcons:
+        - name: Email
+          url: mailto:licalzi@unive.it
+        - name: CV
+          url: /Resume-mlc.pdf
+        - name: Location
+          url: /location/
+        - name: Office Hours
+          url: /officehours/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=BRTQX8gAAAAJ
+        - name: other
+          url: https://orcid.org/0000-0003-4718-708X
+        - name: GitHub
+          url: https://github.com/mlicalzi
+          
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: true
+        hiddenInSingle: true
+    label:
+       text: "Marco LiCalzi"
+       icon: /pentagon.ico
+       iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            hardWraps: false
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: splendor
+        tabWidth: 4
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
+
+titleCaseStyle: 'none'
