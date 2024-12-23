@@ -13,9 +13,9 @@ description: "Information related to research for Marco LiCalzi."
 
 ### Current grants
 
-+ 2023-2025: *Honey BEE VOLatility: An environmental index for assessing climatic risk impact on ecosystems service provision* (PRIN PNRR)
++ 2023-2025: [*Honey BEE VOLatility*](https://www.beevol.unifi.it): An environmental index for assessing climatic risk impact on ecosystems service provision (PRIN PNRR)
 + 2023-2025: *Nudging under Limited Attention* (PRIN)
-+ 2021-2024: [*EPOC: Economic Policy in Complex Environments*](https://epoc-itn.eu) (Innovative Training Network)
++ 2021-2024: [*EPOC*](https://epoc-itn.eu): Economic Policy in Complex Environments (Innovative Training Network)
 
 ### Upcoming conferences
 
