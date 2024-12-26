@@ -30,10 +30,9 @@ description: "Information related to research for Marco LiCalzi."
 + [1st Computational Social Science Conference](https://cs2italy.org/), Trento, 15-18 January 2025
 
 
-### List of publications
+### Publications
 
-+ M. LiCalzi and A.F. Veinott, [*Lattice programming and subextremal functions*](http://ideas.repec.org/p/wpa/wuwpge/0509001.html), mimeo, July 1992
-+ M. LiCalzi, [*Generalized symmetric supermodular functions*](SymmetricSupermodular.pdf), mimeo, July 1990
++ [Selected list](Publications-mlc.pdf), with access links
 
 ### Unpublished papers
 
