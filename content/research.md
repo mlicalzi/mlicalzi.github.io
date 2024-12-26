@@ -27,8 +27,6 @@ description: "Information related to research for Marco LiCalzi."
 
 + [GDRR 8](https://dec.unibocconi.eu/8GDRR), Milan, 28-30 May 2025
 
-+ BRIC 11, Mexico City, 2-4 June 2025
-
 + [1st Computational Social Science Conference](https://cs2italy.org/), Trento, 15-18 January 2025
 
 
