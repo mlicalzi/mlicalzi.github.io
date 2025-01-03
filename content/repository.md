@@ -9,6 +9,8 @@ description: "Miscellanea."
 
 #### Quotes for our times
 
+Weather, mood, and love may affect office hours. (Variation on a theme seen at Forte dei Marmi)
+
 Ci sedemmo dalla parte del torto visto che tutti gli altri posti erano occupati. (B. Brecht)
 
 en face / le pire / jusqu'a ce qu'il fasse / rire (S. Beckett)
