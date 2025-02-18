@@ -12,7 +12,7 @@ description: "Information related to academic and professional service for Marco
 [Homepage](https://www.amases.org) 
 
 ### University of Trento
-[Nucleo](https://www.unitn.it/ateneo/129/nucleo-di-valutazione)
+[Nucleo](https://webapps.unitn.it/du/it/OrganoIstituzionale/ORI0000005/Persone)
 
 ### Scuola Superiore Meridionale
 [Homepage](https://www.ssmeridionale.it)
