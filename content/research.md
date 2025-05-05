@@ -19,7 +19,7 @@ description: "Information related to research for Marco LiCalzi."
 
 ### Conferences
 
-+ Amases XLIX, Florence, 11-13 September 2025
++ [Amases XLIX](https://sites.google.com/disei.unifi.it/amases2025/), Florence, 11-13 September 2025
 
 + [13th World Congress of the Econometric Society](https://www.econometricsociety.org/regional-activities/schedule/2025/08/18/2025-World-Congress-Seoul-Korea#home), Seoul, 18-22 August, 2025
 
