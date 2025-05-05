@@ -7,7 +7,7 @@ description: "Information related to research for Marco LiCalzi."
 
 ### Work in progress
 
-+ (with Niccolò Urbinati), [*Market allocations under conflation of goods*](https://arxiv.org/abs/2412.18875), December 2024; including an [*Online Appendix*](MACG-Online-Appendix.pdf)
++ (with Niccolò Urbinati), [*Market allocations under conflation of goods*](https://arxiv.org/abs/2412.18875), April 2025; including an [*Online Appendix*](MACG-Online-Appendix.pdf)
 
 + (with Alperen Yasar), [*Vocabulary aggregation*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902792), July 2024
 
@@ -26,9 +26,6 @@ description: "Information related to research for Marco LiCalzi."
 + [2025 SAET]([https://saet.uiowa.edu/2025-conference/](https://www.mathematical-economics-naples.eu)), Ischia, 29 June - 5 July, 2025
 
 + [GDRR 8](https://dec.unibocconi.eu/8GDRR), Milan, 28-30 May 2025
-
-+ [1st Computational Social Science Conference](https://cs2italy.org/), Trento, 15-18 January 2025
-
 
 ### Publications
 
