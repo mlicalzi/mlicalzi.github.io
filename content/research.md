@@ -1,6 +1,6 @@
 ---
 title: "Research"
-date: 2024-12-23
+date: 2025-05-05
 hidemeta: true
 description: "Information related to research for Marco LiCalzi."
 ---
