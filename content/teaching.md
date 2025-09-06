@@ -37,7 +37,7 @@ Please book your meeting by email at least 48 hours in advance\
 
 [*Computational Social choice*](https://search.usi.ch/it/corsi/35275929/computational-social-choice) (Bachelor)
 
-[*Teoria dei giochi*](https://search.usi.ch/it/corsi/35275544/teoria-dei-giochi (Bachelor)
+[*Teoria dei giochi*](https://search.usi.ch/it/corsi/35275544/teoria-dei-giochi) (Bachelor)
 
 ###  Theses and dissertations
 
