@@ -27,7 +27,7 @@ Please book your meeting by email at least 48 hours in advance\
 
 [*Advanced Microeconomics*](https://moodle.unive.it/course/view.php?id=24415) (Doctoral, PHD107)
 
-[*Politics and Mathematics*](https://moodle.unive.it/course/view.php?id=23187](https://www.unive.it/data/insegnamento/576199) (Bachelor)
+[*Politics and Mathematics*](https://www.unive.it/data/insegnamento/576199) (Bachelor)
 
 [*Principles of Organizational Economics*](https://moodle.unive.it/course/view.php?id=24438) (Doctoral, PHD178)
 
