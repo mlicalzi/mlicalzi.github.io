@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-date: 2024-12-23
+date: 2025-09-06
 hidemeta: true
 description: "Information related to teaching for Marco LiCalzi"
 ---
@@ -8,32 +8,36 @@ description: "Information related to teaching for Marco LiCalzi"
 ### Office hours
 
 #### Period: 
-7 January to 30 June, 2025
+22 September to 31 October, 2025
 
 #### Where and when:
-Mon. 10:00-11:45, Room 205, Building C2, San Giobbe
+Thu. 16:00-17:45, Room 205, Building C2, San Giobbe
 
-Meetings are at my office, but it is possible to arrange virtual meetings on Zoom\
-Please book your meeting [here](https://mlicalzi.youcanbook.me) or by email at least 48 hours in advance\
+Meetings are at my office. Upon request, it is possible to arrange virtual meetings on Zoom\
+Please book your meeting by email at least 48 hours in advance\
 (Unbooked slots are used for other work)
 
 <!-- 
 #### Changes:
 -->
 	 	
-###  Academic year 2024-2025
+###  Academic year 2025-2026
 
 #### U. Ca' Foscari Venezia
 
-[*Advanced Microeconomics*](https://moodle.unive.it/course/view.php?id=20297) (Doctoral, PHD107)
+[*Advanced Microeconomics*](https://moodle.unive.it/course/view.php?id=24415) (Doctoral, PHD107)
 
-[*Principles of Organizational Economics*](https://moodle.unive.it/course/view.php?id=20309) (Doctoral, PHD178)
+[*Politics and Mathematics*](https://moodle.unive.it/course/view.php?id=23187](https://www.unive.it/data/insegnamento/576199) (Bachelor)
+
+[*Principles of Organizational Economics*](https://moodle.unive.it/course/view.php?id=24438) (Doctoral, PHD178)
+
+[*Risk and Uncertainty*](https://moodle.unive.it/course/view.php?id=23187) (Bachelor)
 
 #### U. della Svizzera Italiana
 
-[*Teoria dei giochi e programmazione lineare*](https://www.icorsi.ch/course/view.php?id=19218) (Bachelor)
+[*Computational Social choice*](https://search.usi.ch/it/corsi/35275929/computational-social-choice) (Bachelor)
 
-[*Teoria delle decisioni*](https://www.icorsi.ch/course/view.php?id=20418) (Bachelor)
+[*Teoria dei giochi*](https://search.usi.ch/it/corsi/35275544/teoria-dei-giochi (Bachelor)
 
 ###  Theses and dissertations
 
