@@ -8,10 +8,10 @@ description: "Information related to teaching for Marco LiCalzi"
 ### Office hours
 
 #### Period: 
-22 September to 31 October, 2025
+3 November to 23 December, 2025
 
 #### Where and when:
-Thu. 16:00-17:45, Room 205, Building C2, San Giobbe
+Wed. 14:30-16:00, Room 205, Building C2, San Giobbe
 
 Meetings are at my office. Upon request, it is possible to arrange virtual meetings on Zoom\
 Please book your meeting by email at least 48 hours in advance\
