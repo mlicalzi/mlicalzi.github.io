@@ -8,7 +8,7 @@ description: "Information related to teaching for Marco LiCalzi"
 ### Office hours
 
 #### Period: 
-7 Jaunary to 30 June, 2026
+7 January to 30 June, 2026
 
 #### Where and when:
 Tue. 10:30-12:00, Room 205, Building C2, San Giobbe
