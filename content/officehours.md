@@ -1,6 +1,6 @@
 ---
 title: "Office Hours"
-date: 2025-09-06
+date: 2026-01-07
 hidemeta: true
 description: "Schedule and location for Marco LiCalzi's office hours."
 ---
@@ -8,7 +8,7 @@ description: "Schedule and location for Marco LiCalzi's office hours."
 --- 
 #### Schedule
 
-Office hours take place on Thursday at 16:00.
+Office hours take place on Tuesday at 10:30.
 
 ---
 
