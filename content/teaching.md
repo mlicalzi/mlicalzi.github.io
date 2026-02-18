@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-date: 2025-09-06
+date: 20265-02-18
 hidemeta: true
 description: "Information related to teaching for Marco LiCalzi"
 ---
@@ -8,10 +8,10 @@ description: "Information related to teaching for Marco LiCalzi"
 ### Office hours
 
 #### Period: 
-3 November to 23 December, 2025
+7 Jaunary to 30 June, 2026
 
 #### Where and when:
-Wed. 14:30-16:00, Room 205, Building C2, San Giobbe
+Tue. 10:30-12:00, Room 205, Building C2, San Giobbe
 
 Meetings are at my office. Upon request, it is possible to arrange virtual meetings on Zoom\
 Please book your meeting by email at least 48 hours in advance\
