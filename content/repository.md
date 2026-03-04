@@ -11,7 +11,7 @@ description: "Miscellanea."
 
 Weather, mood, and love may affect office hours. (Variation on a theme seen at Forte dei Marmi)
 
-Ci sedemmo dalla parte del torto visto che tutti gli altri posti erano occupati. (B. Brecht)
+We sat on the wrong side, because all the other seats were occupied. (Apocryphal)
 
 You cannot count on people that you did not take into account. (M. LiCalzi)
 
