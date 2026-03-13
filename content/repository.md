@@ -6,6 +6,8 @@ description: "Miscellanea."
 ---
 #### Open access (green)
 
+Vocabulary aggregation (with M.A. Yasar), February 2026
+
 Market allocations under conflation of goods (with N. Urbinati), April 2025 
 https://doi.org/10.48550/arXiv.2412.18875
 
