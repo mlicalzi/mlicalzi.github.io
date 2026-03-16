@@ -6,7 +6,7 @@ description: "Miscellanea."
 ---
 #### Open access (green)
 
-+ (with Alperen Yasar), [*Vocabulary aggregation*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902792f), February 2026
++ (with Alperen Yasar), [*Vocabulary aggregation*](https://doi.org/10.48550/arXiv.2603.12958), February 2026
 
 + (with N. Urbinati), [*Market allocations under conflation of goods*](https://doi.org/10.48550/arXiv.2412.18875), April 2025 
 
