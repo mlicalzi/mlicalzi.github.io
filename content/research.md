@@ -24,6 +24,9 @@ description: "Information related to research for Marco LiCalzi"
 
 + [SAET-EWET 2026](https://www.unive.it/web/en/16583/home), Venice, 10-12 June 2026
 
++ [D-TEA 2026](https://sites.google.com/site/dteaworkshop/), Paris, 1-13 June 2026
+
+
 ### Unpublished papers
 
 <ul>
