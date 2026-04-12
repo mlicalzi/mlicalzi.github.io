@@ -20,7 +20,7 @@ description: "Information related to research for Marco LiCalzi."
 
 + [SING21](https://sites.google.com/view/sing-21), Neaples, 29 June to 1 July 2026
 
-+ [EEA-ESEM 2026](hhttps://www.eea-esem-congresses.org), Dublin, 17-21 August, 2026
++ [EEA-ESEM 2026](https://www.eea-esem-congresses.org), Dublin, 17-21 August, 2026
 
 + [2025 SAET](https://saet.uiowa.edu/2025-conference/), Ischia, 20 June-5 July 2025
 
