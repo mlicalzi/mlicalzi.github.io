@@ -26,6 +26,12 @@ defaults:
   run:
     shell: bash
 
+# Force all JS actions to run on Node 24 ahead of the June 2026 deadline.
+# Remove this block once configure-pages and upload-pages-artifact
+# release Node 24-native versions.
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  
 jobs:
   # Build job
   build:
@@ -40,7 +46,7 @@ jobs:
     #  - name: Install Dart Sass
     #   run: sudo snap install dart-sass
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           submodules: recursive
           fetch-depth: 0          # full history for .GitInfo and .Lastmod
