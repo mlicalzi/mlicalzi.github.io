@@ -9,6 +9,8 @@ description: "Information related to research for Marco LiCalzi"
 
 + (with E.A. and L.B.), *Averaging targets*, March 2026
 
++ (with E.F. et al.), *Beyond migration: How landscape composition and heterogeneity sustain stationary honey bee colony productivity across biogeographical regions*, March 2026
+
 + (with L.M.), *Probabilistic auctions*, January 2026
 
 ### Current grants
