@@ -7,9 +7,9 @@ description: "Information related to research for Marco LiCalzi"
 
 ### Work in progress
 
-+ (with E.A. and L.B.), [*Averaging targets*], March 2026
++ (with E.A. and L.B.), *Averaging targets*, March 2026
 
-+ (with L.M.), [*Probabilistic auctions*], January 2026
++ (with L.M.), *Probabilistic auctions*, January 2026
 
 ### Current grants
 
