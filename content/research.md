@@ -16,9 +16,11 @@ description: "Information related to research for Marco LiCalzi."
 
 ### Upcoming conferences
 
-+ [Amases XLIX](https://sites.google.com/disei.unifi.it/amases2025/home), Florence, 11-13 September 2025
++ [Amases Jubilee](https://sites.google.com/uniroma1.it/amases2026), Rome, 3-5 September 2026
 
-+ [13th World Congress of the Econometric Society](https://www.econometricsociety.org/regional-activities/schedule/2025/08/18/2025-World-Congress-Seoul-Korea#home), Seoul, 18-22 August, 2025
++ [SING21](https://sites.google.com/view/sing-21), Neaples, 29 June to 1 July 2026
+
++ [EEA-ESEM 2026](hhttps://www.eea-esem-congresses.org), Dublin, 17-21 August, 2026
 
 + [2025 SAET](https://saet.uiowa.edu/2025-conference/), Ischia, 20 June-5 July 2025
 
