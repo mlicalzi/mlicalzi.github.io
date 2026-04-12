@@ -7,7 +7,9 @@ description: "Information related to research for Marco LiCalzi"
 
 ### Work in progress
 
-+ (with Alperen Yasar), [*Vocabulary aggregation*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4902792f), July 2024
++ (with E.A. and L.B.), [*Averaging targets*], March 2026
+
++ (with L.M.), [*Probabilistic auctions*], January 2026
 
 ### Current grants
 
