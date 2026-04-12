@@ -1,8 +1,8 @@
 ---
 title: "Research"
-date: 2025-09-06
+date: 2026-04-12
 hidemeta: true
-description: "Information related to research for Marco LiCalzi."
+description: "Information related to research for Marco LiCalzi"
 ---
 
 ### Work in progress
@@ -12,17 +12,17 @@ description: "Information related to research for Marco LiCalzi."
 ### Current grants
 
 + 2023-2026: *Honey BEE VOLatility: An environmental index for assessing climatic risk impact on ecosystems service provision* (PRIN PNRR)
-+ 2023-2025: *Nudging under Limited Attention* (PRIN)
++ 2023-2026: *Nudging under Limited Attention* (PRIN)
 
 ### Upcoming conferences
 
 + [Amases Jubilee](https://sites.google.com/uniroma1.it/amases2026), Rome, 3-5 September 2026
 
++ [EEA-ESEM 2026](https://www.eea-esem-congresses.org), Dublin, 17-21 August 2026
+
 + [SING21](https://sites.google.com/view/sing-21), Neaples, 29 June to 1 July 2026
 
-+ [EEA-ESEM 2026](https://www.eea-esem-congresses.org), Dublin, 17-21 August, 2026
-
-+ [2025 SAET](https://saet.uiowa.edu/2025-conference/), Ischia, 20 June-5 July 2025
++ [SAET-EWET 2026](https://www.unive.it/web/en/16583/home), Venice, 10-12 June 2026
 
 ### Unpublished papers
 
