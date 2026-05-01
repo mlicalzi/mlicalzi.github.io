@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-date: 20265-02-18
+date: 2026-02-18
 hidemeta: true
 description: "Information related to teaching for Marco LiCalzi"
 ---
