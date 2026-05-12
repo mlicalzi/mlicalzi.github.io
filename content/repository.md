@@ -6,7 +6,10 @@ description: "Miscellanea."
 ---
 #### Open access (green)
 
-+ (with Alperen Yasar), [*Vocabulary aggregation*](https://doi.org/10.48550/arXiv.2603.12958), February 2026
++ (with E. Fantinato et al.), [*Beyond migration: How landscape composition and heterogeneity sustain stationary honey bee
+colony productivity across biogeographical regions*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6622498), April 2026
+
++ (with A. Yasar), [*Vocabulary aggregation*](https://doi.org/10.48550/arXiv.2603.12958), February 2026
 
 + (with N. Urbinati), [*Market allocations under conflation of goods*](https://doi.org/10.48550/arXiv.2412.18875), April 2025 
 
