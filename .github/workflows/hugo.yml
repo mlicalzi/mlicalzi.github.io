@@ -29,8 +29,8 @@ defaults:
 # Force all JS actions to run on Node 24 ahead of the June 2026 deadline.
 # Remove this block once configure-pages and upload-pages-artifact
 # release Node 24-native versions.
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+# env:
+#   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
   
 jobs:
   # Build job
@@ -52,7 +52,7 @@ jobs:
           fetch-depth: 0          # full history for .GitInfo and .Lastmod
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build with Hugo
@@ -78,4 +78,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
