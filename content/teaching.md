@@ -42,7 +42,7 @@ Please book your meeting by email at least 48 hours in advance\
 ###  Theses and dissertations
 
 #### Bachelor
-Read the [guidelines](istruzioni.pdf) before consulting me
+Read the [guidelines](/istruzioni.pdf) before consulting me
 
 #### Master's and PhD
 
