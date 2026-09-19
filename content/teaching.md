@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-date: 2026-02-18
+date: 2026-09-19
 hidemeta: true
 description: "Information related to teaching for Marco LiCalzi"
 ---
@@ -8,10 +8,10 @@ description: "Information related to teaching for Marco LiCalzi"
 ### Office hours
 
 #### Period: 
-7 January to 30 June, 2026
+21 September to 31 October, 2026
 
 #### Where and when:
-Tue. 10:30-12:00, Room 205, Building C2, San Giobbe
+Wed. 15:45-17:30, Room 205, Building C2, San Giobbe
 
 Meetings are at my office. Upon request, it is possible to arrange virtual meetings on Zoom\
 Please book your meeting by email at least 48 hours in advance\
@@ -21,23 +21,23 @@ Please book your meeting by email at least 48 hours in advance\
 #### Changes:
 -->
 	 	
-###  Academic year 2025-2026
+###  Academic year 2026-2027
 
 #### U. Ca' Foscari Venezia
 
-[*Advanced Microeconomics*](https://moodle.unive.it/course/view.php?id=24415) (Doctoral, PHD107)
+[*Advanced Microeconomics*](https://moodle.unive.it/course/view.php?id=28180) (Doctoral, PHD107)
 
-[*Politics and Mathematics*](https://www.unive.it/data/insegnamento/576199) (Bachelor)
+[*Games and Strategic Thinking*](https://www.unive.it/data/insegnamento/581611) (Master, EMR18)
 
-[*Principles of Organizational Economics*](https://moodle.unive.it/course/view.php?id=24438) (Doctoral, PHD178)
+[*Principles of Organizational Economics*](https://www.unive.it/data/insegnamento/747205) (Doctoral, PHD178)
 
-[*Risk and Uncertainty*](https://moodle.unive.it/course/view.php?id=23187) (Bachelor)
+[*Risk and Uncertainty*](https://moodle.unive.it/course/view.php?id=26926) (Bachelor, ETR8)
 
 #### U. della Svizzera Italiana
 
-[*Computational Social choice*](https://search.usi.ch/it/corsi/35275929/computational-social-choice) (Bachelor)
+[*Computational Social choice*](https://search.usi.ch/it/corsi/35279064/computational-social-choice) (Bachelor)
 
-[*Teoria dei giochi*](https://search.usi.ch/it/corsi/35275544/teoria-dei-giochi) (Bachelor)
+[*Teoria dei giochi*](https://search.usi.ch/it/corsi/35278486/teoria-dei-giochi) (Bachelor)
 
 ###  Theses and dissertations
 
