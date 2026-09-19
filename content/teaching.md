@@ -13,9 +13,8 @@ description: "Information related to teaching for Marco LiCalzi"
 #### Where and when:
 Wed. 15:45-17:30, Room 205, Building C2, San Giobbe
 
-Meetings are at my office. Upon request, it is possible to arrange virtual meetings on Zoom\
-Please book your meeting by email at least 48 hours in advance\
-(Unbooked slots are used for other work)
+Meetings are at my office. Upon request, virtual meetings on Zoom can be arranged.\
+Please book your meeting by email at least 48 hours in advance.
 
 <!-- 
 #### Changes:
