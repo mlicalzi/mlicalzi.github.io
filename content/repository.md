@@ -17,6 +17,9 @@ colony productivity across biogeographical regions*](https://papers.ssrn.com/sol
 
 #### Quotes for our times
 
+We are not trying to meet some abstract production quota of definitions, theorems and proofs.
+The measure of our success is whether what we do enables *people* to understand and think more clearly and eﬀectively about mathematics. (W. Thurston)
+
 Weather, mood, and love may affect office hours. (Variation on a theme seen at Forte dei Marmi)
 
 We sat on the wrong side, because all the other seats were occupied. (Apocryphal)
