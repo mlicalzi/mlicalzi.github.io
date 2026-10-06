@@ -7,7 +7,7 @@ description: "Information related to research for Marco LiCalzi"
 
 ### Work in progress
 
-+ (with B.B.), *Choice via ovnership rules*, August 2026
++ (with B.B.), [*Choice via ovnership rules*](https://arxiv.org/pdf/2610.06428), August 2026
 
 + (with E.A. and L.B.), *Averaging targets*, March 2026
 
