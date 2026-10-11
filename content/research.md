@@ -11,9 +11,10 @@ description: "Information related to research for Marco LiCalzi"
 
 + (with L.M.), *Bidding with coarse information*, September 2026
 
-+ (with E.A. and L.B.), *Averaging targets*, March 2026
++ (with E. Fantinato et al.), [*Beyond migration: How landscape composition and heterogeneity sustain stationary honey bee
+colony productivity across biogeographical regions*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6622498), April 2026
 
-+ (with E.F. et al.), [*Beyond migration: How landscape composition and heterogeneity sustain stationary honey bee colony productivity across biogeographical regions*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6622498), March 2026
++ (with E.A. and L.B.), *Averaging targets*, March 2026
 
 ### Current grants
 
