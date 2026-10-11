@@ -7,7 +7,7 @@ description: "Information related to research for Marco LiCalzi"
 
 ### Work in progress
 
-+ (with B.B.), [*Choice via ovnership rules*](https://arxiv.org/pdf/2610.06428), October 2026
++ (with B.B.), [*Choice via ownership rules*](https://arxiv.org/pdf/2610.06428), October 2026
 
 + (with L.M.), *Bidding with coarse information*, September 2026
 
