@@ -7,9 +7,9 @@ description: "Information related to research for Marco LiCalzi"
 
 ### Work in progress
 
-+ (with B.B.), [*Choice via ownership rules*](https://arxiv.org/pdf/2610.06428), October 2026
++ (with B.B.), [*Choice via dual ownership*](https://arxiv.org/pdf/2610.06428), November 2026
 
-+ (with L.M.), *Bidding with coarse information*, September 2026
++ (with F.M.), *Bidding with coarse information*, September 2026
 
 + (with E. Fantinato et al.), [*Beyond migration: How landscape composition and heterogeneity sustain stationary honey bee
 colony productivity across biogeographical regions*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6622498), April 2026
