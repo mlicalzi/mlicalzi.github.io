@@ -15,8 +15,9 @@ description: "Information related to research for Marco LiCalzi"
 
 + (with E. Fantinato et al.), [*Beyond migration: How landscape composition and heterogeneity sustain stationary honey bee colony productivity across biogeographical regions*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6622498), accepted on *Agriculture, Ecosystems & Environment*.
 
-### Current grants
+### Current and recent grants
 
++ 2027-2029: *Digi-FALLS: Towards an Integrated and Scalable Ecosystem for Digital Risk-Stratified Fall Prevention and Prehabilitation in Ageing Populations* (PRIN Hybrid)
 + 2023-2026: *Honey BEE VOLatility: An environmental index for assessing climatic risk impact on ecosystems service provision* (PRIN PNRR)
 + 2023-2026: *Nudging under Limited Attention* (PRIN)
 
